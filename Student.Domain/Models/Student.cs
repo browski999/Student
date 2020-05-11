@@ -9,5 +9,6 @@ namespace Student.Domain
         public string Surname { get; set; }
         public int Age { get; set; }
         public DateTime DoB { get; set; }
+        public string Email { get; set; }
     }
 }
